@@ -11,5 +11,5 @@ function isAbove18(){
 }
 
 function newfn(){
-    console.log("Hey I'm new fucntion made to practise.")
+    console.log("Hey I'm new function made to practise.")
 }
