@@ -18,3 +18,7 @@ function birthday(){
     console.log(`My birth date is : ${dob}`)
     //template literals
 }
+
+function namendate(){
+    console.log(`My name is ${name1} and my birth date is ${dob}`)
+}
