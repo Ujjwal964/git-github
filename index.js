@@ -22,3 +22,7 @@ function birthday(){
 function namendate(){
     console.log(`My name is ${name1} and my birth date is ${dob}`)
 }
+
+function practiseFnToCheckStash(){
+    console.log("understanding how stash works , practise method")
+}
