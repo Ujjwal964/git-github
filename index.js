@@ -9,3 +9,7 @@ function name(){
 function isAbove18(){
     return age>=18
 }
+
+function newfn(){
+    console.log("Hey I'm new fucntion made to practise.")
+}
