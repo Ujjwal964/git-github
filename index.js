@@ -13,3 +13,8 @@ function isAbove18(){
 function newfn(){
     console.log("Hey I'm new function made to practise.")
 }
+
+function birthday(){
+    console.log(`My birth date is : ${dob}`)
+    //template literals
+}
